@@ -6,7 +6,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot
 
 ![Desktop screenshot](./design/desktop-design.jpeg)
-![Mobile screenshot](./design/mobile-design.jpeg)
+
 
 
 ### Links
