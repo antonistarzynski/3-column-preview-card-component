@@ -78,8 +78,6 @@ button {
     text-transform: capitalize;
     position: relative;
     top: 20%;
-    transition-duration: 0.2s;
-    transition-timing-function: ease-in-out;
 }
 
 .sedans {
